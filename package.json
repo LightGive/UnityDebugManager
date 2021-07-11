@@ -1,23 +1,22 @@
 {
-    "name": "jp.lightgive.debugmanager",
-    "version": "1.0.0",
-    "displayName": "DebugManager",
-    "description": "DebugManager\n\u30fbFPS\u8868\u793a",
-    "unity": "2020.3",
-    "unityRelease": "0b5",
-    "dependencies":
-    {
-        "jp.lightgive.managersystem": "1.0.0"
-    },
-    "keywords": [
-        "keyword1",
-        "keyword2",
-        "keyword3"
-    ],
-    "author": {
-        "name": "LightGive",
-        "email": "roi.akase@outlook.jp",
-        "url": "https://github.com/LightGive"
-    },
-    "hideInEditor": false
+  "name": "jp.lightgive.debugmanager",
+  "version": "1.0.0",
+  "displayName": "DebugManager",
+  "description": "Unity\u3067\u4f7f\u7528\u3059\u308b\u30c7\u30d0\u30c3\u30b0\u306e\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30af\u30e9\u30b9",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "jp.lightgive.managersystem": "1.0.0"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "LightGive",
+    "email": "roi.akase@outlook.jp",
+    "url": "https://github.com/LightGive"
+  },
+  "hideInEditor": false
 }

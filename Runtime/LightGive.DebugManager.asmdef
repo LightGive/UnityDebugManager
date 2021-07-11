@@ -1,0 +1,16 @@
+{
+    "name": "LightGive.DebugManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:afa76fd98aefc4fb48af8d1db2da4459"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

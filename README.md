@@ -8,7 +8,8 @@ PackageManagerからこのリポジトリのURLを指定して追加<br>
 ・FPS表示
 
 ## Feature
-・DebugLogの表示
+・DebugLogの表示<br>
+・メモリの使用状況<br>
 
 ## License
 [See](/LICENSE.md)
